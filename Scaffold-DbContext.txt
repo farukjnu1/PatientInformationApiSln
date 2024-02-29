@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=103.125.254.20,9433;Database=hospitaldb;User ID=ampletemp;Password=cnizoxsdyulk8ejvgrmw;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
